@@ -32,7 +32,7 @@
                 } else {
                     ++$attempts;
                     echo ("Ви програли");
-                }
+                } 
             } else {
                 echo ("Ваші спроби закінчились");
                 $attempts = 0;
